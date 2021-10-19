@@ -1,0 +1,7 @@
+{
+    "name": "graphile-worker-nix",
+    "version": "0.11.4",
+    "dependencies": {
+        "graphile-worker": "0.11.4"
+    }
+}
